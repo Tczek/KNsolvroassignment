@@ -1,11 +1,8 @@
 # KNsolvroassignment
 
 ## Project Overview
-This project is designed to work with **Conda**. Please note that unexpected issues may occur when installing dependencies via:
-
-```sh
+This project is designed to work with **Conda**. Please note that unexpected **issues** may occur when installing dependencies via:
 pip install -r requirements.txt
-```
 
 ## Installation and Setup
 To run the program, follow these steps:
